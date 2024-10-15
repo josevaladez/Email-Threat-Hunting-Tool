@@ -4,4 +4,4 @@ This Email Threat Hunting Tool provides a comprehensive suite of features for ad
 
 **.NET Desktop Runtime Dependency**
 
-To use the tool, the only required dependency is the .NET Desktop Runtime. If it is not already installed on your system, the tool will guide you through the installation process when it's run for the first time. Installing the .NET Desktop Runtime takes about a minute, and my tool will provide clear instructions to download and install it from the official Microsoft website, ensuring a quick and seamless setup.
+To use the tool, the only required dependency is the .NET Desktop Runtime. If it is not already installed on your system, the tool will guide you through the installation process when it's run for the first time. Installing the .NET Desktop Runtime takes about a minute, and the tool will provide clear instructions to download and install it from the official Microsoft website, ensuring a quick and seamless setup.
