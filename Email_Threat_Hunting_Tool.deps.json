@@ -1,0 +1,82 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Email_Threat_Hunting_Tool/3": {
+        "dependencies": {
+          "Microsoft.Web.WebView2": "1.0.2277.86",
+          "ZXing.Net": "0.16.6"
+        },
+        "runtime": {
+          "Email_Threat_Hunting_Tool.dll": {}
+        }
+      },
+      "Microsoft.Web.WebView2/1.0.2277.86": {
+        "runtime": {
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Core.dll": {
+            "assemblyVersion": "1.0.2277.86",
+            "fileVersion": "1.0.2277.86"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.WinForms.dll": {
+            "assemblyVersion": "1.0.2277.86",
+            "fileVersion": "1.0.2277.86"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Wpf.dll": {
+            "assemblyVersion": "1.0.2277.86",
+            "fileVersion": "1.0.2277.86"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/WebView2Loader.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "1.0.2277.86"
+          },
+          "runtimes/win-x64/native/WebView2Loader.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.0.2277.86"
+          },
+          "runtimes/win-x86/native/WebView2Loader.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.0.2277.86"
+          }
+        }
+      },
+      "ZXing.Net/0.16.6": {
+        "runtime": {
+          "lib/netcoreapp3.1/zxing.dll": {
+            "assemblyVersion": "0.16.6.0",
+            "fileVersion": "0.16.6.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Email_Threat_Hunting_Tool/3": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Web.WebView2/1.0.2277.86": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uxtDlLvFPuYDSIic1jbd6bGyuHTE/U2lYWQT55yUhkRdMaqNs5krFoTD+jCPrDNC2MA6QYVxCQLlkw2nI8BV+Q==",
+      "path": "microsoft.web.webview2/1.0.2277.86",
+      "hashPath": "microsoft.web.webview2.1.0.2277.86.nupkg.sha512"
+    },
+    "ZXing.Net/0.16.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0+6EcJ7Ve1BocwqvqpAmgMa7xF3wxqROcM3KvAE6WGNIqXLA5YEziLjRX+kKYVrcttlFRz1IaoRSzt/o6Ttviw==",
+      "path": "zxing.net/0.16.6",
+      "hashPath": "zxing.net.0.16.6.nupkg.sha512"
+    }
+  }
+}
